@@ -6,7 +6,7 @@ foo@bar:~$ brew install terraform
 foo@bar:~$ vim ./main.tf
 ```
 
-```json
+```terraform
 provider "helm" {
   kubernetes {
     config_context_cluster   = "minikube"
