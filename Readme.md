@@ -34,7 +34,7 @@ Make some changes
 foo@bar:~$ helm delete my-mongodb
 ```
 
-detect drift
+detect configuration drift
 
 ```bash
 foo@bar:~$ terraform refresh
