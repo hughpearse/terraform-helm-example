@@ -1,4 +1,4 @@
-# Teerraform with IBM
+# Terraform demo with minikube
 
 
 ```bash
